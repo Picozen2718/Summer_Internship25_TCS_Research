@@ -80,7 +80,7 @@ pip install networkx numpy strawberryfields
 ---
 
 ## Future Work
-This project sets the groundwork for:
+This project is a small contribution in the growing research to:
 1. Full GBS circuit simulation using Strawberry Fields
 2. Comparing GBS-based initialization to classical baselines across various graph sizes
 3. Robustness and convergence speed analysis
