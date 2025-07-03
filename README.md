@@ -51,7 +51,10 @@ This repo consists of the following code files:
 6. `Jaccard_Iterative_Algo1.py` - This is the initial implementation of Algo 1 from Arachchi et al. (2024)
 7. `Weighted_Jaccard_Iterative_Algo3.py` - This the greedy algorithm from Arachchi et al. (2024) 
 
-**Note that to run this Code you need to install the following Dependencies: networkx, numpy, strawberryfields**
+**Note:** To run this code, install the dependencies:
+```bash
+pip install networkx numpy strawberryfields
+```
 
 ---
 
