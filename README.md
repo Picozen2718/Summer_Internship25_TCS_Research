@@ -28,7 +28,7 @@ This work was conducted as part of a research internship at **TCS Research**, ai
 
 ## Report
 
-*[Internship Project Report (PDF)](link-to-report-if-hosted)*
+*[Internship Project Report (PDF)](Summer_Internship_Project_Report_Yashaswini_Mathur.pdf)*
 
 > **Title**: *Exploration of Quantum-Enhanced Initialization for Jaccard-Weighted Densest Subgraphs*  
 > This report presents a detailed study of the JWDS problem, the classical ITR algorithm, and a proposed GBS-assisted hybrid approach. It outlines:
